@@ -28,12 +28,11 @@ public:
         vector<int> color(n, -1);
         for(int i = 0; i < n; i++){
             if(color[i] == -1){
-                if(!check(i, n, color, graph)){
+                if(check(i, n, color, graph) == false){
                     return false;
                 }
             }
-        }
+        }      
         return true;
     }
 };
-
