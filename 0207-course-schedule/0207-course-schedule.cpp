@@ -4,7 +4,7 @@ public:
     bool canFinish(int n, vector<vector<int>>& prerequisites) {
         vector<vector<int>> adj(n);
         for(auto it: prerequisites) {
-            adj[it[0]].push_back(it[1]);
+            adj[it[1]].push_back(it[0]);
         }
 
         vector<int> indegree(n, 0);
