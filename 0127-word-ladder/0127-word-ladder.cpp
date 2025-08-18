@@ -1,25 +1,15 @@
 class Solution {
 public:
-    bool existsInWordList(string& endWord, vector<string>& wordList) {
-        for(auto word: wordList) {
-            if(word == endWord) {
-                return true;
-            }
-        }
-        return false;
-    }
-
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
-        bool check = existsInWordList(endWord, wordList);
-        if(!check) {
-            return check;
-        }
-
-        queue<pair<string, int>> q;
-        q.push({beginWord, 1});
-        int maxSteps = 0;
         unordered_set<string> st(wordList.begin(), wordList.end());
         st.erase(beginWord);
+        if(st.find(endWord) == st.end()) {
+            return 0;
+        }
+        
+        int maxSteps = 0;
+        queue<pair<string, int>> q;
+        q.push({beginWord, 1});
         while(!q.empty()) {
             string word = q.front().first;
             int steps = q.front().second;
