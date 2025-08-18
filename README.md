@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0801-is-graph-bipartite) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0127-word-ladder) |
 | [0900-reordered-power-of-2](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0900-reordered-power-of-2) |
 ## Math
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0127-word-ladder) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Greedy
 |  |
