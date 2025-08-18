@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0867-new-21-game](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0867-new-21-game) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Recursion
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0126-word-ladder-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0127-word-ladder) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0867-new-21-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
