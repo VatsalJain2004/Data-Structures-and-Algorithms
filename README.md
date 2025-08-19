@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0679-24-game) |
 | [1073-number-of-enclaves](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1349-check-if-it-is-a-straight-line) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2529-range-product-queries-of-powers) |
 ## Depth-First Search
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0900-reordered-power-of-2) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1448-maximum-69-number](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Sorting
 |  |
 | ------- |
