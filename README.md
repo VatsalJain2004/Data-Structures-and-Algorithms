@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0051-n-queens](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0679-24-game](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0679-24-game) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1073-number-of-enclaves](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0127-word-ladder) |
 | [0900-reordered-power-of-2](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0900-reordered-power-of-2) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2529-range-product-queries-of-powers](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2529-range-product-queries-of-powers) |
 ## Backtracking
 |  |
