@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1073-number-of-enclaves](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1753-path-with-minimum-effort](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1753-path-with-minimum-effort) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2529-range-product-queries-of-powers) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -34,15 +36,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1753-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
 | [1073-number-of-enclaves](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1753-path-with-minimum-effort) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Graph
 |  |
@@ -146,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [1753-path-with-minimum-effort](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1753-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -154,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
