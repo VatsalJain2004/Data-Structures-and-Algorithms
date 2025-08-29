@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2529-range-product-queries-of-powers) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Depth-First Search
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0127-word-ladder) |
 | [0900-reordered-power-of-2](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0900-reordered-power-of-2) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1016-subarray-sums-divisible-by-k) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0867-new-21-game) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Probability and Statistics
 |  |
 | ------- |
