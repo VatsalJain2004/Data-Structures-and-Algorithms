@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1753-path-with-minimum-effort](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1753-path-with-minimum-effort) |
+| [1917-maximum-average-pass-ratio](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1917-maximum-average-pass-ratio) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2529-range-product-queries-of-powers) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1448-maximum-69-number) |
+| [1917-maximum-average-pass-ratio](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1917-maximum-average-pass-ratio) |
 ## Geometry
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1753-path-with-minimum-effort) |
+| [1917-maximum-average-pass-ratio](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1917-maximum-average-pass-ratio) |
 ## Shortest Path
 |  |
 | ------- |
