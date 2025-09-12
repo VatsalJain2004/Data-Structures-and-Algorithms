@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0801-is-graph-bipartite) |
@@ -203,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3954-maximum-balanced-shipments](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3954-maximum-balanced-shipments) |
+## Tree
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0129-sum-root-to-leaf-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0129-sum-root-to-leaf-numbers) |
 <!---LeetCode Topics End-->
