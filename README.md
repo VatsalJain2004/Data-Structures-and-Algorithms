@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0051-n-queens](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0118-pascals-triangle](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0118-pascals-triangle) |
+| [0496-next-greater-element-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0679-24-game](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0679-24-game) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1073-number-of-enclaves](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1073-number-of-enclaves) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0127-word-ladder) |
+| [0496-next-greater-element-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0900-reordered-power-of-2](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0900-reordered-power-of-2) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -200,10 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [3954-maximum-balanced-shipments](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3954-maximum-balanced-shipments) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [3954-maximum-balanced-shipments](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3954-maximum-balanced-shipments) |
 ## Tree
 |  |
