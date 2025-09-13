@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3462-vowels-game-in-a-string](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3462-vowels-game-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0127-word-ladder) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3462-vowels-game-in-a-string](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3462-vowels-game-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -230,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0437-path-sum-iii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0437-path-sum-iii) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
