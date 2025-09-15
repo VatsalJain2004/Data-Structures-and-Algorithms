@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0437-path-sum-iii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0463-island-perimeter) |
+| [0684-redundant-connection](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0820-find-eventual-safe-states) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0463-island-perimeter) |
+| [0684-redundant-connection](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0820-find-eventual-safe-states) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1753-path-with-minimum-effort) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0820-find-eventual-safe-states) |
