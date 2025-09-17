@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3954-maximum-balanced-shipments](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3954-maximum-balanced-shipments) |
 ## Depth-First Search
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1448-maximum-69-number](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1448-maximum-69-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1917-maximum-average-pass-ratio) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3954-maximum-balanced-shipments](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3954-maximum-balanced-shipments) |
 ## Geometry
 |  |
@@ -225,11 +228,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3954-maximum-balanced-shipments](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3954-maximum-balanced-shipments) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3954-maximum-balanced-shipments](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3954-maximum-balanced-shipments) |
 ## Tree
 |  |
