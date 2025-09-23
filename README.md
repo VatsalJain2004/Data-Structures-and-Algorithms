@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0126-word-ladder-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0127-word-ladder) |
+| [0165-compare-version-numbers](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0165-compare-version-numbers) |
 | [1006-vowel-spellchecker](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1006-vowel-spellchecker) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3462-vowels-game-in-a-string](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3462-vowels-game-in-a-string) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
+| [0165-compare-version-numbers](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0165-compare-version-numbers) |
 ## Binary Search
 |  |
 | ------- |
