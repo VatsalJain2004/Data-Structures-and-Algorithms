@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0342-power-of-four) |
 ## String
@@ -273,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
