@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3954-maximum-balanced-shipments](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3954-maximum-balanced-shipments) |
 ## Depth-First Search
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2529-range-product-queries-of-powers](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2529-range-product-queries-of-powers) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Backtracking
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Combinatorics
 |  |
 | ------- |
