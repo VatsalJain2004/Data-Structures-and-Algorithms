@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
+| [0069-sqrtx](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0679-24-game) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0069-sqrtx) |
 | [1753-path-with-minimum-effort](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1753-path-with-minimum-effort) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
