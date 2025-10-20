@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0342-power-of-four) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
