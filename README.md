@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0118-pascals-triangle](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0119-pascals-triangle-ii) |
+| [0303-range-sum-query-immutable](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0463-island-perimeter](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0679-24-game](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0679-24-game) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2529-range-product-queries-of-powers](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2529-range-product-queries-of-powers) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -287,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
