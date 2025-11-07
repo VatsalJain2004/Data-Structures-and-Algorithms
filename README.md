@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3954-maximum-balanced-shipments](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3954-maximum-balanced-shipments) |
+| [4107-find-missing-elements](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/4107-find-missing-elements) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [4107-find-missing-elements](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/4107-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [4107-find-missing-elements](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/4107-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
