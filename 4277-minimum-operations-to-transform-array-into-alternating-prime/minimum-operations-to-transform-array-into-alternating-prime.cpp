@@ -31,7 +31,7 @@ public:
 
     vector<int> buildPrimeList () {
         vector<int> primeList = {};
-        for (int i = 2; i <= 100010; i++) {
+        for (int i = 2; i <= 100004; i++) {
             if (isPrime(i)) {
                 primeList.push_back(i);
             }
