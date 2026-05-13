@@ -9,7 +9,6 @@ public:
             currCount = 1;
 
             if (hs.find(currEle - 1) == hs.end()) {
-
                 while (hs.find(currEle + 1) != hs.end()) {
                     currCount++;
                     currEle++;
