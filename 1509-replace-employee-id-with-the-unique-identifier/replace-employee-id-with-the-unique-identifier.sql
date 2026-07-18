@@ -1,2 +1,2 @@
-# Write your MySQL query statement below
-SELECT unique_id, name from Employees left join EmployeeUNI ON EmployeeUNI.id = Employees.id;
+-- Write your PostgreSQL query statement below
+SELECT EmployeeUNI.unique_id, Employees.name from Employees left join EmployeeUNI ON EmployeeUNI.id = Employees.id;
