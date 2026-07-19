@@ -1,7 +1,7 @@
 class Solution {
 public:
-    string removeDuplicateLetters(string s) {
-                vector<int> lastIndex(26);
+    string removeDuplicateLetters(string& s) {
+        vector<int> lastIndex(26);
         vector<bool> used(26, false);
         string res = "";
         int n = s.length();
