@@ -11,16 +11,17 @@ public:
             }
         }
 
+        vector<int> ans;
         if (countOfZero > 1) {
             return vector<int>(nums.size(), 0);
         }
-
-        vector<int> ans;
-        for (int& it: nums) {
-            if (countOfZero == 1) {
+        else if (countOfZero == 1) {
+            for (int& it: nums) {
                 ans.push_back(it == 0 ? product : 0);
             }
-            else {
+        }
+        else {
+            for (int& it: nums) {
                 ans.push_back(product / it);
             }
         }
