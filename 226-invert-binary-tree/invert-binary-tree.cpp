@@ -11,7 +11,18 @@
  */
 class Solution {
 public:
-    TreeNode* invertTree(TreeNode* root) {
+    TreeNode* dfs (TreeNode* root) {
+        if (!root) return root;
+
+        swap(root -> left, root -> right);
+
+        root -> left = dfs(root -> left);
+        root -> right = dfs(root -> right);
+        
+        return root;
+    }
+
+    TreeNode* bfs (TreeNode* root) {
         if (!root) return root;
 
         queue<TreeNode*> q;
@@ -32,5 +43,9 @@ public:
             }
         }
         return root;
+    } 
+
+    TreeNode* invertTree(TreeNode* root) {
+        return bfs(root);
     }
 };
