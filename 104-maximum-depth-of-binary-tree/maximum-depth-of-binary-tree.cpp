@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    int maxDepth(TreeNode* root) {
+    int bfs (TreeNode* root) {
         if (!root) return 0;
         queue<TreeNode*> q;
         q.push(root);
@@ -32,5 +32,16 @@ public:
             }
         }
         return levels;
+    }
+
+    int dfs (TreeNode* root) {
+        if (!root) return 0;
+
+        int left = dfs(root -> left), right = dfs(root -> right);
+        return max(left, right) + 1;
+    }
+
+    int maxDepth(TreeNode* root) {
+        return dfs(root);
     }
 };
