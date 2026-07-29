@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0210-course-schedule-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0463-island-perimeter) |
 | [0684-redundant-connection](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0684-redundant-connection) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0437-path-sum-iii) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0437-path-sum-iii) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Brainteaser
