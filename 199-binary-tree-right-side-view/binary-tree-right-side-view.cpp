@@ -1,42 +1,40 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-    void rightNodes(TreeNode *root, int level, vector<int>& ans){
-        if(!root)  return;
-        
-        if(level == ans.size())  ans.push_back(root -> val);
-
-        rightNodes(root -> right, level + 1, ans);
-        rightNodes(root -> left, level + 1, ans);
+    void dfs(TreeNode* root, int level, vector<int>& ans){
+        if(level == ans.size())
+            ans.push_back(root -> val);
+        if(root -> right)
+            dfs(root -> right, level+1, ans);
+        if(root -> left)
+            dfs(root -> left, level+1, ans);
     }
-
     vector<int> rightSideView(TreeNode* root) {
-        if(!root)  return {};
+        if(!root)
+            return {};
         vector<int> ans;
-        rightNodes(root, 0, ans);
-        return ans;
+        dfs(root, 0, ans); 
+        return ans;           
     }
 };
 
+// class Solution {
+// public:
+//     void rightNodes(TreeNode *root, int level, vector<int>& ans){
+//         if(!root)  return;
+        
+//         if(level == ans.size())  ans.push_back(root -> val);
 
+//         rightNodes(root -> right, level + 1, ans);
+//         rightNodes(root -> left, level + 1, ans);
+//     }
 
-
-
-
-
-
-
-
+//     vector<int> rightSideView(TreeNode* root) {
+//         if(!root)  return {};
+//         vector<int> ans;
+//         rightNodes(root, 0, ans);
+//         return ans;
+//     }
+// };
 
 // class Solution {
 // public:
