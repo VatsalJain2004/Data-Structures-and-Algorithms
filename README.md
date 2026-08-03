@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0326-power-of-three) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0119-pascals-triangle-ii) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Linked List
 |  |
