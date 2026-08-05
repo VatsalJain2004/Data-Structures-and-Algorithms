@@ -3,8 +3,10 @@ public:
     int n;
     vector<int> dp;
     vector<int> nums;
+
     int robOrLeaveMemoization (int i, int moneyRobbed) {
         if (i < 0) return 0;
+        if (i == 0) return nums[0];
         if (dp[i] != -1) return dp[i];
 
         int rob = nums[i] + robOrLeaveMemoization (i-2, moneyRobbed + nums[i]);
