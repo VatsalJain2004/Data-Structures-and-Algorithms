@@ -25,10 +25,23 @@ public:
         return dp[n-1];
     }
     
+    int robOrLeaveSpaceOptimization () {
+        dp.clear();
+        int prevRobbery = max(nums[0], n > 1 ? nums[1] : -1), secondPrevRobbery = nums[0];
+        for (int i = 2; i < n; i++) {
+            int rob = nums[i] + secondPrevRobbery, 
+                leave = prevRobbery;
+
+            secondPrevRobbery = prevRobbery;
+            prevRobbery = max(rob, leave);
+        }
+        return prevRobbery;
+    }
+
     int rob(vector<int>& nums) {
         n = nums.size();
         dp = vector<int>(n, -1);
         this -> nums = nums;
-        return robOrLeaveTabulation();    
+        return robOrLeaveSpaceOptimization();    
     }
 };
