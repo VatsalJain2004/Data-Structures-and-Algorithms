@@ -29,6 +29,6 @@ public:
         n = nums.size();
         dp = vector<int>(n, -1);
         this -> nums = nums;
-        return robOrLeaveMemoization(n-1, 0);    
+        return robOrLeaveTabulation();    
     }
 };
