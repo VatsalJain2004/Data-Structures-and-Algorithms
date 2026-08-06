@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3462-vowels-game-in-a-string](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0900-reordered-power-of-2) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 | [4055-longest-balanced-substring-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/4055-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
