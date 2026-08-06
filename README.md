@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
+| [0091-decode-ways](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0091-decode-ways) |
 | [0126-word-ladder-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0165-compare-version-numbers) |
