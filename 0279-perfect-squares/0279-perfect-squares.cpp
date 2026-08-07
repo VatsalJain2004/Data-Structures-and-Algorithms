@@ -24,11 +24,16 @@ public:
             return t[n][S] = minCoinsToGetS(n-1, S);
     }
 
-    int numSquares(int S) {
+    void buildSquaresArray (int& S) {
+        if (coins.size()) return;
+
         for(int i = 1; i*i<=S; i++) {
             coins.push_back(i*i);
         }
+    }
 
+    int numSquares(int& S) {
+        buildSquaresArray(S);
         int n = coins.size();
         
         t = vector<vector<int>>(n+1, vector<int>(S+1, -1));
