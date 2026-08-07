@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0463-island-perimeter) |
 | [0684-redundant-connection](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0684-redundant-connection) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0679-24-game) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
@@ -358,11 +361,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
