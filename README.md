@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [1006-vowel-spellchecker](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1046-last-stone-weight](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
 | [1073-number-of-enclaves](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1753-path-with-minimum-effort](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1753-path-with-minimum-effort) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1046-last-stone-weight](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
 | [1753-path-with-minimum-effort](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1917-maximum-average-pass-ratio) |
 ## Shortest Path
