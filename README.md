@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0518-coin-change-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -370,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0518-coin-change-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
