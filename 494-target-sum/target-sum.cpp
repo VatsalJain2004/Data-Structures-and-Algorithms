@@ -11,15 +11,21 @@ public:
         if (dp[n][target] != -1)
             return dp[n][target];
 
-        int add = targetSumRecursion(n - 1, target - nums[n]);
-        int subtract = targetSumRecursion(n - 1, target + nums[n]);
+        int notTake = targetSumRecursion(n - 1, target);
 
-        return dp[n][target] = add + subtract;
+        int take = 0;
+
+        if (target >= nums[n])
+            take = targetSumRecursion(n - 1, target - nums[n]);
+
+        return dp[n][target] = take + notTake;
     }
 
     int targetSumTabulation(int target) {
-        dp = vector<vector<int>>(n + 1,
-                                 vector<int>(target + 1, 0));
+        dp = vector<vector<int>>(
+            n + 1,
+            vector<int>(target + 1, 0)
+        );
 
         dp[0][0] = 1;
 
@@ -57,6 +63,11 @@ public:
 
         int newTarget = (sum + target) / 2;
 
-        return targetSumTabulation(newTarget);
+        dp = vector<vector<int>>(
+            n + 1,
+            vector<int>(newTarget + 1, -1)
+        );
+
+        return targetSumRecursion(n-1, newTarget);
     }
 };
