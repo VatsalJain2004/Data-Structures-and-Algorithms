@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0518-coin-change-ii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0165-compare-version-numbers) |
+| [0474-ones-and-zeroes](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0474-ones-and-zeroes) |
 | [1006-vowel-spellchecker](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1006-vowel-spellchecker) |
 | [1250-longest-common-subsequence](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1250-longest-common-subsequence) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
@@ -383,5 +387,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
