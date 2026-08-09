@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
