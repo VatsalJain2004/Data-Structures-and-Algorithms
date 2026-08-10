@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0474-ones-and-zeroes) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0069-sqrtx) |
+| [0300-longest-increasing-subsequence](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [1753-path-with-minimum-effort](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1753-path-with-minimum-effort) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
@@ -403,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
