@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0221-maximal-square) |
 | [0303-range-sum-query-immutable](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0063-unique-paths-ii) |
+| [0221-maximal-square](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0463-island-perimeter) |
 | [1073-number-of-enclaves](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1753-path-with-minimum-effort) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
