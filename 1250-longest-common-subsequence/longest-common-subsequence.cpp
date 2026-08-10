@@ -40,6 +40,27 @@ public:
         return dp[n-1][m-1];
     }
 
+    int spaceOptimization () { 
+        vector<int> prev(m+1, 0);
+        for (int i = 0; i < n; i++) {
+            vector<int> cur(m+1, 0);
+            for (int j = 0; j < m; j++) {
+                if (cur[j]) {
+                    continue;
+                }
+                if (s[i] == t[j]) {
+                    cur[j] = 1 + ((i > 0 && j > 0) ? prev[j-1] : 0);
+                }
+                else {
+                    cur[j] = max((i > 0 ? prev[j] : 0), (j > 0 ? cur[j-1] : 0));
+                }
+            }
+            prev = cur;
+        }
+
+        return prev[m-1];
+    }
+
     int longestCommonSubsequence(string s, string t) {
         n = s.length(), m = t.length();    
         this -> s = s;
@@ -47,6 +68,6 @@ public:
 
         dp = vector<vector<int>>(n, vector<int>(m, -1));
 
-        return tabulation();
+        return spaceOptimization();
     }
 };
