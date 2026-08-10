@@ -25,7 +25,10 @@ public:
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                if (s[i] == s[j]) {
+                if (dp[i][j]) {
+                    continue;
+                }
+                if (s[i] == t[j]) {
                     dp[i][j] = 1 + ((i > 0 && j > 0) ? dp[i-1][j-1] : 0);
                 }
                 else {
@@ -44,6 +47,6 @@ public:
 
         dp = vector<vector<int>>(n, vector<int>(m, -1));
 
-        return memoization (n-1, m-1);
+        return tabulation();
     }
 };
