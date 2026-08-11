@@ -66,7 +66,7 @@ public:
         this -> s = s;
         this -> t = t;
 
-        dp = vector<vector<int>>(n, vector<int>(m, -1));
+        // dp = vector<vector<int>>(n, vector<int>(m, -1)); when recursive or memoization
 
         return spaceOptimization();
     }
