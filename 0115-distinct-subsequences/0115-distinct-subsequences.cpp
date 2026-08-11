@@ -25,15 +25,32 @@ public:
         return dp[i][j] = memoization (i-1, j);
     }
 
+    int tabulation () {
+        vector<vector<double>> ldp(n+1, vector<double>(m+1, 0));
+
+        for (int i = 0; i <= n; i++) ldp[i][0] = 1;
+
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= m; j++) {
+                if (s[i-1] == t[j-1]) {
+                    ldp[i][j] = ldp[i-1][j-1] + ldp[i-1][j];
+                }
+                else {
+                    ldp[i][j] = ldp[i-1][j];
+                }
+            }
+        }
+
+        return (int)ldp[n][m];
+    }
+
     int numDistinct(string s, string t) {
         this -> s = s;
         this -> t = t;
-        n = s.length(), m = t.length();
+        n = (this -> s).length(), m = (this -> t).length();
 
-        if (m > n) return 0;
+        // if (m > n || m == 0 || n == 0) return 0;
 
-        dp = vector<vector<int>>(n, vector<int>(m, -1));
-
-        return memoization (n-1, m-1);
+        return tabulation ();
     }
 };
