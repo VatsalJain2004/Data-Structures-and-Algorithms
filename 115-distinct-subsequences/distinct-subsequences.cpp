@@ -8,10 +8,12 @@ public:
         if (j < 0) return 1;
         if (i < 0) return 0;
 
+        int notPick = recursive (i-1, j);
+
         if (s[i] == t[j])
-            return recursive (i-1, j-1) + recursive (i-1, j);
-        
-        return recursive (i-1, j);
+            return recursive (i-1, j-1) + notPick;
+
+        return notPick;
     }
     
     int memoization (int i, int j) {
@@ -49,7 +51,7 @@ public:
         this -> t = t;
         n = (this -> s).length(), m = (this -> t).length();
 
-        // if (m > n || m == 0 || n == 0) return 0;
+        if (m > n || m == 0 || n == 0) return 0;
 
         return tabulation ();
     }
