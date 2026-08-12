@@ -14,11 +14,9 @@ public:
             return;
         }
 
-        string word = "";
         for (int j = i; j < n; j++) {
-            word += s[j];
             sentence += s[j];
-            if (dictSet.count(word)) {
+            if (dictSet.count(s.substr(i, j-i+1))) {
                 sentence += ' ';
                 recursive (j+1, sentence);
                 sentence.pop_back();
