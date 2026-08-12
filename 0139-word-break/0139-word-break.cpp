@@ -7,7 +7,20 @@ public:
     vector<int> dp;
 
     bool tabulation () {
-        return dp[n-1];
+        dp = vector<int>(n+1, false);
+        dp[n] = true;
+
+        for (int i = n-1; i >= 0; i--) {
+            for (int j = i; j < n; j++) {
+                string word = s.substr (i, j-i+1);
+                if (dictMap.count(word) && dp[j+1]) {
+                    dp[i] = true;
+                    break;
+                }
+            }
+        }
+
+        return dp[0];
     }
 
     bool memoization (int i) {
@@ -45,6 +58,6 @@ public:
         n = s.length();
         dp = vector<int> (n, -1);
 
-        return memoization (0);
+        return tabulation();
     }   
 };
