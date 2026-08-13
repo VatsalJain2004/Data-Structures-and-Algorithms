@@ -12,6 +12,7 @@
 class Solution {
 public:
     vector<vector<int>> path;
+    vector<int> localPath;
     int target;
 
     void dfs (TreeNode* root, int sum, vector<int> tempPath) {
@@ -19,7 +20,7 @@ public:
 
         sum += root -> val;
         tempPath.push_back(root -> val);
-        
+
         if (!root -> left && !root -> right && sum == target) {
             path.push_back(tempPath);
             return;
@@ -31,12 +32,32 @@ public:
         return;
     }
 
+    void dfsAndBacktrack (TreeNode* root, int sum) {
+        if (!root) return;
+
+        sum -= root -> val;
+        localPath.push_back(root -> val);
+
+        if (!root -> left && !root -> right && sum == 0) {
+            path.push_back(localPath);
+            localPath.pop_back();
+            return;
+        } 
+
+        dfsAndBacktrack (root -> left, sum);
+        dfsAndBacktrack (root -> right, sum);
+
+        localPath.pop_back();
+        return;
+    }
+
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
         path.clear();
+        localPath.clear();
         this -> target = targetSum;
         if (!root) return path;
 
-        dfs (root, 0, {});
+        dfsAndBacktrack (root, targetSum);
 
         return path;
     }
