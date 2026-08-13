@@ -11,41 +11,12 @@
  */
 class Solution {
 public:
-    TreeNode* dfs (TreeNode* root) {
-        if (!root) return root;
-
-        swap(root -> left, root -> right);
-
-        root -> left = dfs(root -> left);
-        root -> right = dfs(root -> right);
-        
-        return root;
-    }
-
-    TreeNode* bfs (TreeNode* root) {
-        if (!root) return root;
-
-        queue<TreeNode*> q;
-        q.push(root);
-
-        while (!q.empty()) {
-            TreeNode *node = q.front();
-            q.pop();
-
-            swap(node -> left, node -> right);
-
-            if (node -> left) {
-                q.push(node -> left);
-            }
-
-            if (node -> right) {
-                q.push(node -> right);
-            }
-        }
-        return root;
-    } 
-
     TreeNode* invertTree(TreeNode* root) {
-        return bfs(root);
+        if (!root) return NULL;
+        
+        swap(root -> left, root -> right);
+        invertTree(root -> right);
+        invertTree(root -> left);
+        return root;
     }
 };
