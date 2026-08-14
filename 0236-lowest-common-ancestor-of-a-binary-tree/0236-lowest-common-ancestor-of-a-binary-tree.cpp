@@ -24,8 +24,16 @@ public:
         return total;
     }
 
+    TreeNode* dfs (TreeNode* root, TreeNode* p, TreeNode* q) {
+        if (!root || root == p || root == q) return root;
+
+        TreeNode *left = dfs (root -> left, p, q);
+        TreeNode *right = dfs (root -> right, p, q);
+
+        return left && right ? root : left ? left : right; 
+    }
+
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        lca (root, p, q);
-        return lcaNode;
+        return dfs(root, p, q);
     }
 };
