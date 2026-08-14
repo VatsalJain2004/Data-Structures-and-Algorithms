@@ -24,8 +24,8 @@ public:
             root -> val + leftSum + rightSum, 
             maxSum
         });
-        cout <<  maxSum<< " " << root -> val << " " << leftSum << " " << rightSum << endl;
-        cout << "-------------------------------" << endl << endl;
+        // cout <<  maxSum<< " " << root -> val << " " << leftSum << " " << rightSum << endl;
+        // cout << "-------------------------------" << endl << endl;
 
         return root -> val + max(leftSum, rightSum);
     }
