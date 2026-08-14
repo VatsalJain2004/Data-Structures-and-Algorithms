@@ -1,18 +1,21 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    bool isValidBST(TreeNode* root) {
-        if(!root)   
-            return true;
-        return check(root, LONG_MIN, LONG_MAX);
-    }
+    bool isValidBST(TreeNode* root, long long min = LONG_MIN, long long max = LONG_MAX) {
+        if (!root) return true;
 
-    bool check(TreeNode* root, long long min, long long max){
-        if(!root)
-            return true;
-            
-        if(root -> val >= max || root -> val <= min)
-            return false;
+        if (root -> val >= max || root -> val <= min) return false;
 
-        return check(root -> left, min, root -> val) && check(root -> right, root -> val, max);
+        return isValidBST (root -> left, min, root -> val) && isValidBST (root -> right, root -> val, max);
     }
 };
