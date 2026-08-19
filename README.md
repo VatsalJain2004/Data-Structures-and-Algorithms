@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
 | [1073-number-of-enclaves](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1386-cinema-seat-allocation](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1563-stone-game-v) |
 | [1753-path-with-minimum-effort](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1917-maximum-average-pass-ratio) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0900-reordered-power-of-2) |
 | [1006-vowel-spellchecker](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1386-cinema-seat-allocation](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0342-power-of-four) |
+| [1386-cinema-seat-allocation](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [2529-range-product-queries-of-powers](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2529-range-product-queries-of-powers) |
 ## Prefix Sum
 |  |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1448-maximum-69-number](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1448-maximum-69-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1917-maximum-average-pass-ratio) |
 | [2029-stone-game-ix](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
