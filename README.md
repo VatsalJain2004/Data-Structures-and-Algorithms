@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0518-coin-change-ii) |
 | [0679-24-game](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0679-24-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
+| [0930-binary-subarrays-with-sum](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1006-vowel-spellchecker](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-last-stone-weight](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 | [0496-next-greater-element-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0900-reordered-power-of-2](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0900-reordered-power-of-2) |
+| [0930-binary-subarrays-with-sum](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1006-vowel-spellchecker](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1386-cinema-seat-allocation](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
+| [0930-binary-subarrays-with-sum](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2529-range-product-queries-of-powers](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2529-range-product-queries-of-powers) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0867-new-21-game) |
+| [0930-binary-subarrays-with-sum](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Probability and Statistics
