@@ -9,6 +9,6 @@ public:
             n = n / 10;
         }
         n = copyN;
-        return (copyN % (sum + product) == 0);
+        return !(copyN % (sum + product));
     }
 };
