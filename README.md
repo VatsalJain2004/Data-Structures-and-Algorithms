@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1250-longest-common-subsequence) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3462-vowels-game-in-a-string](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3462-vowels-game-in-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0867-new-21-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Probability and Statistics
 |  |
