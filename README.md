@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3954-maximum-balanced-shipments](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3954-maximum-balanced-shipments) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [4055-longest-balanced-substring-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/4055-longest-balanced-substring-i) |
