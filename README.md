@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3903-smallest-stable-index-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3903-smallest-stable-index-i) |
 | [3954-maximum-balanced-shipments](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3954-maximum-balanced-shipments) |
 | [4107-find-missing-elements](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/4107-find-missing-elements) |
 ## Depth-First Search
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2529-range-product-queries-of-powers](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/2529-range-product-queries-of-powers) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3903-smallest-stable-index-i](https://github.com/VatsalJain2004/Data-Structures-and-Algorithms/tree/master/3903-smallest-stable-index-i) |
 ## Backtracking
 |  |
 | ------- |
